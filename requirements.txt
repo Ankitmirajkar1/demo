@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+pypdf
+python-docx
+pandas
+openpyxl
+wikipedia
+python-dotenv
+ipykernel
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
